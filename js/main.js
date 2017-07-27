@@ -58,7 +58,7 @@ function getRandomColor() {
     for (var i = 0; i < 6; i++ ) {
         color += letters[Math.floor(Math.random() * 16)];
     }
-    return "#888888";
+    return "#00FF00";
 }
 
 //
@@ -67,8 +67,8 @@ function getRandomColor() {
 
 minDate = formatDate("2017-01-01 00:00:00");
 maxDate = formatDate("2017-03-01 23:59:59");
-startDate = formatDate("2017-01-10 21:15:00");
-endDate = formatDate("2017-01-11 21:15:00");
+startDate = formatDate("2017-01-10 01:15:00");
+endDate = formatDate("2017-01-12 21:15:00");
 initialPosition = [38.8, 71.1]; // beijing
 
 //
