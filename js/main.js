@@ -202,7 +202,7 @@ d3.csv("timestamps.csv", function(collection) {
 	// MAP
 	//
 
-	var map = L.map('map').setView(initialPosition, 11),
+	var map = L.map('map').setView(initialPosition, 8),
 		maplink = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/normal.day.grey/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {
 					attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>',
 					subdomains: '1234',
