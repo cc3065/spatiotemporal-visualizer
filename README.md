@@ -5,7 +5,7 @@ An online spatio-temporal utility to visualize trajectory data using D3.js, Leaf
 
 view demo here https://cc3065.github.io/spatiotemporal-visualizer/
 
-This is a work in progress.  
+You have to click "Load unsafe scripts" to view it. This is a work in progress.  
 
 
 # spatiotemporal-visualizer
