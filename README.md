@@ -1,9 +1,11 @@
 spatiotemporal-visualizer
 =========================
 
-An online spatio-temporal utility to visualize trajectory data using D3.js, Leaflet.js and Crossfilter.
+An online spatio-temporal utility to visualize trajectory data using D3.js, Leaflet.js and Crossfilter, adopted from https://github.com/hugocore/spatiotemporal-visualizer
 
-View demo at http://hugocore.github.io/spatiotemporal-visualizer/
+view demo here https://cc3065.github.io/spatiotemporal-visualizer/
 
-Read [documentation](sigr_63925_project_report.pdf?raw=true) for more information.
+This is a work in progress.  
+
+
 # spatiotemporal-visualizer
